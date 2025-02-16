@@ -1,0 +1,106 @@
+name: job_circular2
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_web_plugins:
+    sdk: flutter
+  
+  
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  responsive_framework: ^1.5.1
+  gap: ^3.0.1
+  dio: ^5.8.0+1
+  intl: ^0.20.2
+  flutter_staggered_animations: ^1.1.1
+  loading_indicator: ^3.1.1
+  flutter_widget_from_html_core: ^0.15.2
+  internet_file: ^1.2.0
+  pdfx: ^2.8.0
+  flutter_animate: ^4.5.2
+  flutter_svg: ^2.0.9
+  get_storage: ^2.1.1
+  url_launcher: ^6.3.1
+  file_picker: ^8.3.5
+  html: ^0.15.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  assets:
+    - assets/images/
+    - assets/images/bg/
+
+  fonts:
+    - family: AppIcon
+      fonts:
+        - asset: assets/fonts/appIcon.ttf
+
+    - family: ferdoka
+      fonts:
+        - asset: assets/fonts/Fredoka-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Fredoka-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Fredoka-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Fredoka-SemiBold.ttf
+          weight: 600
+
+    - family: bn
+      fonts:
+        - asset: assets/fonts/kalpurush.ttf
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
