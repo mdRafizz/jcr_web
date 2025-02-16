@@ -1,6 +1,15 @@
 # Job Circular & Result
 
-Your trusted source for job circulars and exam results. Get the latest updates quickly and easily!
+This project is a Job Circular & Result Management Web Application built using Flutter (Web) and Laravel REST API. The platform provides users with the latest job circulars, results, and relevant updates.
+
+## Key Features
+1. Fetch job circulars from the backend via REST API and display them dynamically.
+2. Uses dynamic routing with job ID & slug to enable deep linking and direct access to specific job details.
+3. Implements Laravel Sanctum Authentication for secure login and access control.
+4. Optimized for mobile, tablet, and desktop using Flutter's Responsive Framework.
+5. Efficient state handling with GetX for seamless navigation and API interactions.
+6. High-performance API communication using Dio for better error handling and response management.
+7. Users can easily search and filter job circulars based on categories.
 
 ## Project Screenshot
 
